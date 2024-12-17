@@ -1,5 +1,4 @@
-
-I'm a Computer Engineering student at Mumbai University, passionate, curious, and creative, with a knack for problem-solving and driven to learn more and excel<br>
+A dedicated JavaScript developer from India, I specialize in Node.js, web development, and building data-driven solutions with a focus on sustainability. I have hands-on experience in full-stack development, AI, and machine learning, with a passion for creating impactful software that drives real-world change. When I'm not coding, I enjoy playing chess, badminton, and solving complex problems.<br>
 
 🔭 I’m currently working on GreenMines<br>
 
