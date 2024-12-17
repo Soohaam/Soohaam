@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 I'm a Computer Engineering student at Mumbai University, passionate, curious, and creative, with a knack for problem-solving and driven to learn more and excel<br>🔭 I’m currently working on GreenMines<br>
 
 
